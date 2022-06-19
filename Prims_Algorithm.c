@@ -1,5 +1,5 @@
-9. Find the minimum cost spanning tree of a given undirected graph 
-using prim’s algorithm and give the trace of it.
+// 9. Find the minimum cost spanning tree of a given undirected graph 
+// using prim’s algorithm and give the trace of it.
 #include<stdio.h>
 int ne=1, min_cost=0;
 void main()
